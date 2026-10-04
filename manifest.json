@@ -1,0 +1,54 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "Kultist",
+  "description": "Monochrome greys on true black with one red accent. Matches the Kultist terminal and Neovim themes.",
+  "homepage_url": "https://github.com/codekult/kultist-firefox",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kultist@codekult",
+      "strict_min_version": "89.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#000000",
+      "frame_inactive": "#000000",
+      "toolbar": "#0b0c0d",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
+      "toolbar_bottom_separator": "#0b0c0d",
+      "toolbar_vertical_separator": "rgba(52, 61, 65, 0.6)",
+      "tab_selected": "rgba(121, 129, 134, 0.18)",
+      "tab_text": "#d9dbdc",
+      "tab_background_text": "#707070",
+      "tab_background_separator": "transparent",
+      "tab_line": "rgba(121, 129, 134, 0.35)",
+      "tab_loading": "#798186",
+      "icons": "#cacccc",
+      "icons_attention": "#de6145",
+      "bookmark_text": "#cacccc",
+      "button_background_hover": "#15181a",
+      "button_background_active": "#23292c",
+      "toolbar_field": "#000000",
+      "toolbar_field_text": "#cacccc",
+      "toolbar_field_border": "transparent",
+      "toolbar_field_focus": "#0b0c0d",
+      "toolbar_field_text_focus": "#d9dbdc",
+      "toolbar_field_border_focus": "#798186",
+      "toolbar_field_highlight": "#798186",
+      "toolbar_field_highlight_text": "#000000",
+      "popup": "#0b0c0d",
+      "popup_text": "#cacccc",
+      "popup_border": "#343d41",
+      "popup_highlight": "#23292c",
+      "popup_highlight_text": "#d9dbdc",
+      "sidebar": "#0b0c0d",
+      "sidebar_text": "#cacccc",
+      "sidebar_border": "#343d41",
+      "sidebar_highlight": "#23292c",
+      "sidebar_highlight_text": "#d9dbdc",
+      "ntp_background": "#000000",
+      "ntp_text": "#cacccc"
+    }
+  }
+}
