@@ -1,8 +1,7 @@
 # Kultist for Firefox
 
 Monochrome greys on true black with one red accent. A Firefox theme matching the
-Kultist terminal and Neovim themes in [codekult/dotfiles](https://github.com/codekult/dotfiles)
-(`kitty/kultist.conf` is the source of truth for the palette).
+Kultist terminal and Neovim themes.
 
 Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 
