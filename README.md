@@ -1,5 +1,7 @@
 # Kultist for Firefox
 
+![Kultist theme preview: active tab, toolbar and URL bar](preview.png)
+
 Monochrome greys on true black with one red accent. A Firefox theme matching the
 Kultist terminal and Neovim themes.
 
