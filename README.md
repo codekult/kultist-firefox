@@ -21,6 +21,16 @@ Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 | Active tab text | `#d9dbdc` |
 | Attention (downloads, updates) | `#de6145` |
 
+## Screenshots
+
+Toolbar and tabs:
+
+![Kultist in Firefox: tabs, toolbar and the add-ons page](screenshots/toolbar.png)
+
+URL bar focused, with the slate focus border and selection:
+
+![Kultist in Firefox with the URL bar focused](screenshots/urlbar-focus.png)
+
 ## Develop
 
 Load `manifest.json` from `about:debugging#/runtime/this-firefox` → **Load Temporary Add-on…**.
