@@ -2,7 +2,7 @@
 
 ![Kultist theme preview: active tab, toolbar and URL bar](preview.png)
 
-Monochrome greys on true black with one red accent. A Firefox theme matching the
+Monochrome greys on true black with one green accent. A Firefox theme matching the
 Kultist terminal and Neovim themes.
 
 Colours only: a static theme (`manifest.json`), no CSS, no scripts.
@@ -19,7 +19,7 @@ Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 | Accent: active tab, focus, selection | `#798186` |
 | Text | `#cacccc` |
 | Active tab text | `#d9dbdc` |
-| Attention (downloads, updates) | `#de6145` |
+| Attention (downloads done, updates) | `#629c7d` |
 
 ## Screenshots
 

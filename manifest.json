@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Kultist",
-  "description": "Monochrome greys on true black with one red accent. Matches the Kultist terminal and Neovim themes.",
+  "description": "Monochrome greys on true black with one green accent. Matches the Kultist terminal and Neovim themes.",
   "homepage_url": "https://github.com/codekult/kultist-firefox",
   "browser_specific_settings": {
     "gecko": {
@@ -25,7 +25,7 @@
       "tab_line": "rgba(121, 129, 134, 0.35)",
       "tab_loading": "#798186",
       "icons": "#cacccc",
-      "icons_attention": "#de6145",
+      "icons_attention": "#629c7d",
       "bookmark_text": "#cacccc",
       "button_background_hover": "#15181a",
       "button_background_active": "#23292c",
