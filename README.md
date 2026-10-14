@@ -2,9 +2,8 @@
 
 ![Kultist theme preview: active tab, toolbar and URL bar](preview.png)
 
-Solitude's greys on true black with two of ashen's accents: teal `#4a8b8b` for focus and
-the active tab, gold `#b69759` for attention. A Firefox theme matching the Kultist terminal
-and editor themes.
+Solitude's greys on true black with one of ashen's accents: teal `#4a8b8b`, kept for events
+(page loading, attention). A Firefox theme matching the Kultist terminal and editor themes.
 
 Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 
@@ -17,12 +16,12 @@ Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 | Hover / highlight | `#15181a` / `#23292c` |
 | Borders | `#343d41` |
 | Inactive tab text | `#707070` |
-| Active tab background | `#798186` at 18% |
-| Accent: active tab line, focus border, loading | `#4a8b8b` |
+| Active tab background / line | `#798186` at 18% / 35% |
+| URL bar focus border | `#798186` |
+| Accent: loading, attention (downloads done, updates) | `#4a8b8b` |
 | Selection | `#343d41` |
 | Text | `#cacccc` |
 | Active tab text | `#d9dbdc` |
-| Attention (downloads done, updates) | `#b69759` |
 
 ## Screenshots
 
@@ -30,7 +29,7 @@ Toolbar and tabs:
 
 ![Kultist in Firefox: tabs, toolbar and the add-ons page](screenshots/toolbar.png)
 
-URL bar focused, with the focus border and selection (screenshot from 1.0, slate accent):
+URL bar focused, with the focus border and selection:
 
 ![Kultist in Firefox with the URL bar focused](screenshots/urlbar-focus.png)
 
