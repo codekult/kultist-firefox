@@ -2,8 +2,8 @@
 
 ![Kultist theme preview: active tab, toolbar and URL bar](preview.png)
 
-Solitude's greys on true black with one of ashen's accents: teal `#4a8b8b`, kept for events
-(page loading, attention). A Firefox theme matching the Kultist terminal and editor themes.
+Solitude's greys on true black with one accent: the terminal's selection teal `#343d41`, kept for
+events (page loading, attention). A Firefox theme matching the Kultist terminal and editor themes.
 
 Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 
@@ -18,7 +18,7 @@ Colours only: a static theme (`manifest.json`), no CSS, no scripts.
 | Inactive tab text | `#707070` |
 | Active tab background / line | `#798186` at 18% / 35% |
 | URL bar focus border | `#798186` |
-| Accent: loading, attention (downloads done, updates) | `#4a8b8b` |
+| Accent: loading, attention (downloads done, updates) | `#343d41` |
 | Selection | `#343d41` |
 | Text | `#cacccc` |
 | Active tab text | `#d9dbdc` |

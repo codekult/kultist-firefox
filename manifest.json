@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "version": "1.1.1",
   "name": "Kultist",
-  "description": "Solitude's greys on true black with one teal accent from ashen. Matches the Kultist terminal and editor themes.",
+  "description": "Solitude's greys on true black with one accent, the terminal's selection teal. Matches the Kultist terminal and editor themes.",
   "homepage_url": "https://github.com/codekult/kultist-firefox",
   "browser_specific_settings": {
     "gecko": {
@@ -23,9 +23,9 @@
       "tab_background_text": "#707070",
       "tab_background_separator": "transparent",
       "tab_line": "rgba(121, 129, 134, 0.35)",
-      "tab_loading": "#4a8b8b",
+      "tab_loading": "#343d41",
       "icons": "#cacccc",
-      "icons_attention": "#4a8b8b",
+      "icons_attention": "#343d41",
       "bookmark_text": "#cacccc",
       "button_background_hover": "#15181a",
       "button_background_active": "#23292c",
